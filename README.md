@@ -28,7 +28,5 @@ The Hub updates itself the same way.
   byte for byte before it replaces anything.
 - Your settings (slots, auto-buy, Discord webhook) stay on your PC and are never touched by updates.
   **Folder** on a macro's card opens where they live.
-- The macros only look at the screen and press keys, like a person — they never read or change
-  Roblox's memory.
-
-Use at your own risk: macros can be against a game's rules.
+- The macros only recreate keystrokes, like a person — they never read or change
+  Roblox's memory whatsoever.
